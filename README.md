@@ -1,2 +1,5 @@
 # hello-world
-Learning git
+Making changes
+Adding lines
+ad infinitum
+etc.
